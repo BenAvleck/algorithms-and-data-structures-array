@@ -1,0 +1,6 @@
+﻿  Functions.cpp
+G:\PZ-19-2\алгоритмы и структуры данных\Лабы\lab1\lab1\Functions.cpp(76,12): warning C4566: character represented by universal-character-name '\u2116' cannot be represented in the current code page (1252)
+  lab1.cpp
+  Generating Code...
+lab1.obj : error LNK2005: "int counter" (?counter@@3HA) already defined in Functions.obj
+G:\PZ-19-2\алгоритмы и структуры данных\Лабы\lab1\Debug\lab1.exe : fatal error LNK1169: one or more multiply defined symbols found
